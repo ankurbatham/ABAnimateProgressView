@@ -2,7 +2,7 @@
 
 A customized progressView which is a subclass of UIView for managing progress.
 
-![Gif](example1.gif) ![Gif](example2.gif)
+![Gif](example1.gif) ![Gif](example2.gif) ![Gif](example3.gif)
 
 ## Requirements
 
