@@ -1,4 +1,4 @@
-# ABProgressView
+# ABAnimateProgressView
 
 A customized progressView which is a subclass of UIView for managing progress.
 
